@@ -1,14 +1,4 @@
 package package_1;
-//
-//public class BubbleSort {
-//
-//	public static void main(String[] args) {
-//		int arr[] = {20, 10, 50, 30, 60, 40};
-//		for (int i = 0; i < 5; i++) {
-//		System.out.println(arr[i]);
-//		}
-//	}
-//}
 
 class BubbleSort {
     void bubbleSort(int arr[])
